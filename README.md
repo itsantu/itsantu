@@ -1,6 +1,7 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=itsantu&label=Profile%20views&color=0e75b6&style=flat" alt="itsantu" /> </p>
-
 ![AntuMallickCoverImage](https://github.com/user-attachments/assets/84c5fdc8-a953-4975-bcd1-ad3a25906157)
+
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=itsantu&label=Profile%20views&color=0e75b6&style=flat" alt="itsantu" /> </p>
 
 <h1 align="center">Hi 👋, I'm Antu Mallick</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
