@@ -18,6 +18,8 @@
 
 - 📄 Know about my experiences [See Resume](https://drive.google.com/file/d/1Dr5l3N_IV-2YYDFgqF0jJeFNi9uBgPOP/view?usp=sharing)
 
+- 🌐 Check out my work [Portfolio](https://antumallick.netlify.app/)
+
 
 - ⚡ Fun fact **I have windows on Ryzen 3**
 
