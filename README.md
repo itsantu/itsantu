@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mallickantu19@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pvpseSOu5lfouKYFug37RX5df-7A0AxW/view?usp=sharing](https://drive.google.com/file/d/1pvpseSOu5lfouKYFug37RX5df-7A0AxW/view?usp=sharing)
+- 📄 Know about my experiences [See Resume]([https://drive.google.com/file/d/1pvpseSOu5lfouKYFug37RX5df-7A0AxW/view?usp=sharing](https://drive.google.com/file/d/1Dr5l3N_IV-2YYDFgqF0jJeFNi9uBgPOP/view?usp=sharing))
 
 - ⚡ Fun fact **I have windows on Ryzen 3**
 
